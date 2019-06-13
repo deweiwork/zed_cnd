@@ -1,0 +1,24 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+time =   0 ,Reset = 0 , btn_1 = 0 , btn_ = 0 , and_val = x , cnt_val = x
+time =   4 ,Reset = 0 , btn_1 = 0 , btn_ = 0 , and_val = x , cnt_val = 0
+time =   5 ,Reset = 0 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time =  50 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 100 ,Reset = 0 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 150 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 181 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 231 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 281 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 331 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 381 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 431 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 481 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 531 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 581 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 631 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 731 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 781 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 831 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 881 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0
+time = 931 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = x
+time = 981 ,Reset = 1 , btn_1 = 0 , btn_ = 0 , and_val = 0 , cnt_val = 0

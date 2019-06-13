@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/dewei_b1409/WorkDisk/WorkSpace/zedBoard/cnt/cnt.sim/sim_1/synth/timing/xsim/cnt_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnt
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/dewei_b1409/WorkDisk/WorkSpace/zedBoard/cnt/cnt.srcs/sim_1/new/cnt_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnt_tb
